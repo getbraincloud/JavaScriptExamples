@@ -13,7 +13,7 @@
     "react-scripts": "1.1.4",
     "remark": "^9.0.0",
     "remark-react": "^4.0.3",
-    "ws": "^5.2.0"
+    "ws": "^7.4.6"
   },
   "scripts": {
     "start": "react-scripts start",
